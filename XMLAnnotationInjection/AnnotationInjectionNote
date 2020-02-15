@@ -1,0 +1,11 @@
+member injection
+member name must be same with bean name;
+need to command to constructor
+
+setter injection
+setter method parameter must be same with bean name;
+need to command to constructor
+
+constructor injection
+constructor parameter work as the same process of member injection
+it will work with @Autowired or without @Autowired
